@@ -1,1 +1,1 @@
-# ejerciciosRuby
+# Ejercicios Ruby
